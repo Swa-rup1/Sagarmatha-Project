@@ -1,0 +1,48 @@
+.searchy{
+    
+    background-color: #17a2b8; /* Customize button background color */
+  border: none;
+  border-radius: 20px;
+  color: white; 
+
+}
+
+.bg-custom {
+    background-color: lightblue;
+}
+.custom-form-control {
+    border: 1px solid #71a4d8; /* Customize border color */
+}
+.search-box {
+    display: flex;
+    align-items: center;
+}
+  
+.custom-form-control {
+    margin-right: 8px; /* Adjust the margin as needed */
+}
+
+
+
+
+.nav-link{
+    color: white !important;
+}
+
+h1, h2{
+    
+    text-align: center;
+    color: rgb(230, 148, 27);
+}
+
+.table, th, td{
+    border: 2px solid black;
+}
+
+.actions{
+    margin: 2px;
+}
+
+.deletey{
+    margin-right: 2px;
+}
