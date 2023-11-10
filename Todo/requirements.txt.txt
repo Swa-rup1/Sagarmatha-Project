@@ -1,2 +1,5 @@
-gunicorn
+Flask
+SQLAlchemy
+Flask-SQLAlchemy
+Gunicorn
 
